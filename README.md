@@ -9,6 +9,8 @@
 [![GitHub stats light](https://github-readme-stats.vercel.app/api?username=Cadlaxa&show_icons=true&theme=merko&show=discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&width=2000&hide_border=true&bg_color=feeab3&title_color=fcba03&text_color=8a5f00&icon_color=d99a00#gh-light-mode-only)](https://github.com/Cadlaxa#gh-light-mode-only)
 [![Top languages dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Cadlaxa&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&hide_border=true&bg_color=3a2a00&title_color=fcba03&text_color=ffe08a&icon_color=d99a00&layout=compact#gh-dark-mode-only)](https://github.com/Cadlaxa#gh-dark-mode-only)
 [![Top languages light](https://github-readme-stats.vercel.app/api/top-langs/?username=Cadlaxa&show_icons=true&theme=merko&show=reviews,discussions_answered&border_radius=0&disable_animations=true&rank_icon=github&hide_border=true&bg_color=feeab3&title_color=fcba03&text_color=8a5f00&icon_color=d99a00&layout=compact#gh-light-mode-only)](https://github.com/Cadlaxa#gh-light-mode-only)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N41CNETK)
 </div>
 
 ## 🟠 Languages I use:
